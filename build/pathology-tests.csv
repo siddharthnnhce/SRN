@@ -1,0 +1,166 @@
+Test / Investigation,Category,Price
+Haemoglobin estimation,Haematology,100/-
+Peripheral blood smear,Haematology,100/-
+Reticulocyte count,Haematology,100/-
+Absolute eosinophil count,Haematology,100/-
+"CBC — Total RBC count, total leucocyte count, differential leucocyte count, platelet count, packed cell volume, etc.",Haematology,100/-
+ESR,Haematology,100/-
+Prothrombin time and INR,Haematology,100/-
+Activated partial thromboplastin time (APTT),Haematology,100/-
+D-dimer,Haematology,100/-
+Plasma fibrinogen test,Haematology,100/-
+Bleeding time and clotting time,Haematology,100/-
+Blood grouping and Rh typing,Haematology,100/-
+Blood cross matching,Haematology,100/-
+Coomb's test — Direct with titre,Haematology,100/-
+Coomb's test — Indirect with titre,Haematology,100/-
+Bone marrow aspiration,Haematology,100/-
+Sickle cell test,Haematology,100/-
+Reduction test for screening G6PD deficiency,Haematology,100/-
+Thalassemia,Haematology,100/-
+Mixing study and Factor VIII Assay for Hemophilia,Haematology,100/-
+Mixing study and Factor XI Assay for Hemophilia,Haematology,100/-
+Haemoglobinopathies screening/testing,Haematology,100/-
+Haemoglobin electrophoresis,Haematology,100/-
+Urine pregnancy test,Clinical pathology,100/-
+"Urine albumin and glucose / haemoglobin, bile salts, bile pigments, ketone bodies, specific gravity and reaction (pH)",Clinical pathology,100/-
+Urine microscopy,Clinical pathology,100/-
+24-hours urinary protein,Clinical pathology,100/-
+Urine for microalbumin,Clinical pathology,100/-
+Urine for creatinine and Albumin to creatinine ratio (ACR),Clinical pathology,100/-
+Vaginal smear for presence of sperms (Medico Legal Case),Clinical pathology,100/-
+Visual examination / visual inspection acetic acid using vaginal speculum,Clinical pathology,100/-
+Cervical smear / Pap smear,Clinical pathology,100/-
+Sputum cytology,Clinical pathology,100/-
+Histopathology,Clinical pathology,100/-
+Cytology — FNAC,Clinical pathology,100/-
+"Semen analysis — morphology, etc.",Clinical pathology,100/-
+"Fluid analysis — cell count, etc.",Clinical pathology,100/-
+Blood glucose,Biochemistry,100/-
+Glucose tolerance test (GTT),Biochemistry,100/-
+Stool for occult blood,Biochemistry,100/-
+"LFT — Bilirubin (total, direct, indirect)",Biochemistry,100/-
+Serum ALT,Biochemistry,100/-
+Serum AST,Biochemistry,100/-
+Alkaline phosphatase,Biochemistry,100/-
+Serum total protein,Biochemistry,100/-
+Serum albumin,Biochemistry,100/-
+Serum globulin,Biochemistry,100/-
+Serum albumin and AG ratio,Biochemistry,100/-
+Blood urea,Biochemistry,100/-
+Serum creatinine,Biochemistry,100/-
+Serum uric acid,Biochemistry,100/-
+Lipid profile — Total cholesterol,Biochemistry,100/-
+Serum triglycerides,Biochemistry,100/-
+S. HDL-C,Biochemistry,100/-
+S. LDL-C,Biochemistry,100/-
+Serum amylase,Biochemistry,100/-
+Serum lipase,Biochemistry,100/-
+Serum sodium,Biochemistry,100/-
+Serum potassium,Biochemistry,100/-
+Serum calcium,Biochemistry,100/-
+Serum chlorides,Biochemistry,100/-
+Serum phosphorous,Biochemistry,100/-
+Serum magnesium,Biochemistry,100/-
+Serum iron,Biochemistry,100/-
+Total iron binding capacity,Biochemistry,100/-
+Serum ionized calcium,Biochemistry,100/-
+Blood gases analysis,Biochemistry,100/-
+LDH,Biochemistry,100/-
+Serum ferritin,Biochemistry,100/-
+Total T3,Biochemistry,100/-
+Total T4 / Free T4,Biochemistry,100/-
+"TSH, including for newborn screening",Biochemistry,100/-
+Serum thyroid peroxidase antibody,Biochemistry,100/-
+Troponin I,Biochemistry,100/-
+Troponin T,Biochemistry,100/-
+Creatine phosphokinase (CPK),Biochemistry,100/-
+Procalcitonin,Biochemistry,100/-
+"CSF analysis — sugar, protein, cell count",Biochemistry,100/-
+Creatine Kinase-muscle/brain (CK-MB),Biochemistry,100/-
+Prostate-specific antigen (PSA),Biochemistry,100/-
+Serum lithium,Biochemistry,100/-
+NT-ProBNP — N-terminal pro-brain natriuretic peptide,Biochemistry,100/-
+Serum beta HCG,Biochemistry,100/-
+Serum prolactin,Biochemistry,100/-
+Serum FSH,Biochemistry,100/-
+Serum LH,Biochemistry,100/-
+Serum estradiol,Biochemistry,100/-
+Serum total testosterone,Biochemistry,100/-
+S. Alfa feto protein,Biochemistry,100/-
+S. CA-125,Biochemistry,100/-
+S. CEA,Biochemistry,100/-
+S. Vitamin D (25 Hydroxy),Biochemistry,100/-
+S. Vitamin B12,Biochemistry,100/-
+Total IgE,Biochemistry,100/-
+Glycosylated haemoglobin (HbA1C),Biochemistry,100/-
+Protein electrophoresis,Biochemistry,100/-
+Smear for RTI/STDs,Microbiology,100/-
+Urine M/E for pus cells,Microbiology,100/-
+Smear examination for Mycobacterium leprae,Microbiology,100/-
+Gram staining,Microbiology,100/-
+Throat swab for diphtheria,Microbiology,100/-
+Hanging drop test for V. cholera,Microbiology,100/-
+Stool routine examination including ova and cyst,Microbiology,100/-
+Gram stain for meningococci,Microbiology,100/-
+Rapid antigen detection test for bacterial meningitis,Microbiology,100/-
+KOH study for fungus,Microbiology,100/-
+Blood culture and antimicrobial sensitivity,Microbiology,100/-
+"Urine, stool, pus, CSF and other sterile body fluids, throat swab — culture and antimicrobial sensitivity",Microbiology,100/-
+Stool culture for Vibrio cholera and other bacterial enteropathogens,Microbiology,100/-
+Culture for diphtheria,Microbiology,100/-
+Fungal culture,Microbiology,100/-
+Cholera test,Microbiology,100/-
+Test for syphilis,Microbiology,100/-
+rK39 test for Kala-Azar,Microbiology,100/-
+IgM for measles,Microbiology,100/-
+C-reactive protein (CRP),Microbiology,100/-
+"TORCH — Toxoplasma, Rubella, CMV and HSV 1 & 2 antibody detection test (IgM and IgG)",Microbiology,100/-
+Corneal scraping for microbial keratitis,Microbiology,100/-
+Rheumatoid factor — quantitative,Serology,100/-
+Antistreptolysin O — quantitative,Serology,100/-
+Peripheral blood smear for malaria detection,Specific diseases,100/-
+Malaria,Specific diseases,100/-
+Peripheral blood smear (thick smear) for filariasis,Specific diseases,100/-
+Dengue,Specific diseases,100/-
+Japanese encephalitis IgM antibody test,Specific diseases,100/-
+Chikungunya IgM antibody test,Specific diseases,100/-
+Scrub Typhus IgM,Specific diseases,100/-
+Leptospirosis IgM antibody test,Specific diseases,100/-
+TB infection testing — Tuberculosis skin test (TST) / TB infection skin test using M. tuberculosis-specific antigen,Specific diseases,100/-
+Sputum for Acid Fast Bacilli (AFB),Specific diseases,100/-
+TB diagnosis — pulmonary and extrapulmonary fluid specimen,Specific diseases,100/-
+TB culture (liquid),Specific diseases,100/-
+TB DST,Specific diseases,100/-
+Line Probe Assays (LPAs) for drug resistance testing (DRT),Specific diseases,100/-
+HIV test — Antibodies 1/2,Specific diseases,100/-
+HIV: CD4 count,Specific diseases,100/-
+HIV: Early infant diagnosis,Specific diseases,100/-
+HIV: Quantitative virological nucleic acid test,Specific diseases,100/-
+Hepatitis A IgM detection test,Specific diseases,100/-
+Hepatitis B surface antigen test,Specific diseases,100/-
+Hepatitis B — quantitative test for viral load detection,Specific diseases,100/-
+Hepatitis C: Anti-HCV (Total),Specific diseases,100/-
+Hepatitis C — quantitative test for viral load detection,Specific diseases,100/-
+Hepatitis E: IgM detection test,Specific diseases,100/-
+HBc (Core antibodies): IgM detection test to hepatitis B core antigen,Specific diseases,100/-
+X-Ray (Digital),Radiology,100/-
+CT scan — with angiography capability; pressure injector,Radiology,100/-
+MRI,Radiology,100/-
+USG with Color Doppler — with Trans Vaginal probe,Radiology,100/-
+"TB: Visual acuity, color vision test — for introduction of BPaLM treatment regimen",Other tests,100/-
+ECG,Other tests,100/-
+C-Arm,Other tests,100/-
+Dental X-ray / Intra Oral periapical IOPA X-Ray,Other tests,100/-
+Orthopantomogram (OPG),Other tests,100/-
+Echocardiography,Other tests,100/-
+Mammography,Other tests,100/-
+EEG,Other tests,100/-
+NCV — Nerve Conduction Velocity,Other tests,100/-
+EMG,Other tests,100/-
+TMT,Other tests,100/-
+PFT,Other tests,100/-
+Ocular Coherence Tomography,Other tests,100/-
+Perimetry (automated),Other tests,100/-
+Pachymetry,Other tests,100/-
+Refraction,Other tests,100/-

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SRN/static/css/main.f855e6bc.css",
+    "main.js": "/SRN/static/js/main.bd51d8c3.js",
+    "static/js/453.9a977f9d.chunk.js": "/SRN/static/js/453.9a977f9d.chunk.js",
+    "index.html": "/SRN/index.html",
+    "main.f855e6bc.css.map": "/SRN/static/css/main.f855e6bc.css.map",
+    "main.bd51d8c3.js.map": "/SRN/static/js/main.bd51d8c3.js.map",
+    "453.9a977f9d.chunk.js.map": "/SRN/static/js/453.9a977f9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bd51d8c3.js"
+  ]
+}

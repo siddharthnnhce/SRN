@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 220" role="img" aria-labelledby="title desc">
+  <title id="title">SRN Hospital</title>
+  <desc id="desc">SRN Hospital logo</desc>
+  <rect width="620" height="220" fill="#fff" stroke="#27305b" stroke-width="6"/>
+  <text x="28" y="170" font-family="Arial, sans-serif" font-size="176" font-weight="800" fill="#123d91">SR</text>
+  <text x="375" y="170" font-family="Arial, sans-serif" font-size="176" font-weight="800" fill="#123d91">N</text>
+  <path d="M278 24 C342 65 357 114 300 199 C347 160 371 123 366 76 C360 45 331 24 278 24Z" fill="#e1b43e"/>
+  <path d="M317 55 h24 v24 h24 v24 h-24 v24 h-24 v-24 h-24 v-24 h24z" fill="#e1b43e"/>
+  <text x="250" y="204" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#173c32">HOSPITAL</text>
+</svg>
